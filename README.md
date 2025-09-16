@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AbdulazeezOpe
 - 👀 I’m interested in ...Data science
-- 🌱 I’m currently learning ...Pythonl
-- 💞️ I’m looking to collaborate on ...presently learning python
+  Python Python Python
 
 
 <!---
