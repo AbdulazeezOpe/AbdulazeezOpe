@@ -56,20 +56,20 @@ I focus on writing clean, maintainable code that solves real business problems.
 **Languages**
 - Python, SQL
 
-**Web Scraping**
+**Web Scraping and Automation**
 - Selenium, Playwright, BeautifulSoup
 
-**Backend**
+**Backend Developement**
 - FastAPI, Flask
 
 **Data & Storage**
 - PostgreSQL, Pandas
 
-**Tools**
-- Docker, Git, REST APIs
+**Tools & Infrastructure**
+- Docker, Git, OCR (Tesseract)
 
-**AI Integration**
-- OpenAI API, LLM-based automation
+**AI & LLM Integration**
+- OpenAI API, Anthropic(Claude) and many more
 
 ---
 
